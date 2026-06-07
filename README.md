@@ -1,2 +1,2 @@
-# Temaik-n
+# Temaiken
 Página web de Temaikèn
